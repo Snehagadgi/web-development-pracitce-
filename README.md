@@ -1,1 +1,1 @@
-# web-development-pracitce-
+# web-development-practice-
